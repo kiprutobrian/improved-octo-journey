@@ -1,2 +1,2 @@
 # improved-octo-journey
-This is similar to "Predicting a customer's next purchase using automated feature engineering -  @bukosabino bukosabino"
+Finding the posterior information of the customer's vist in a store - Machine learning
